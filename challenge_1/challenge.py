@@ -3,6 +3,5 @@
 
 #Solution
 
-my_string = "Python"
-
-print(len(my_string))
+def length_of_string(str):
+    return len(str)
